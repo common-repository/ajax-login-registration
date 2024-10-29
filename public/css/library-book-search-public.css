@@ -1,0 +1,10 @@
+/** main style of Ajax Login Registration plugin **/
+form input{ width: 100%; }
+form div.form-group{ margin-bottom: 20px; }
+.error{ color: #B22222; }
+#responce-messages .error-msg{ width: 100%; margin-left: 0px; margin-top: 20px; padding: 0.4em 1em;color: #B22222; border: 1px solid #B22222; display:none; }
+#responce-messages .success-msg{ width: 100%; margin-left: 0px; margin-top: 20px; padding: 0.4em 1em;color: green; border: 1px solid green; display:none; }
+form span.ajax-loader{ background-image:url('../images/ajax-loader.gif'); width: 16px; height: 16px; }
+.activation-msg{ margin-left: 0px; padding: 0.2em 1em;color: #333; border: 1px solid #f7e700; }
+.warning-msg{ margin-left: 0px; padding: 0.2em 1em;color: #333; border: 1px solid #f7e700; display: none; }
+.form-info p{ font-style: italic; font-size: 20px; }
